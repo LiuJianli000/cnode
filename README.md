@@ -34,5 +34,5 @@ watch: {
     $route(to, from) {
       this.getArticleData();
     }
-  }
+}  
 ```
